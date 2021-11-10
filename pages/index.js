@@ -45,7 +45,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Jason Chan Jin An
           </Heading>
-          <p>Data Scientist ( Student / Guitarist )</p>
+          <p>Data Scientist ( Part Time MSCS Student / Guitarist / UFC Fan / John Mayer Fan )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -71,11 +71,15 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Takuya is a freelance and a full-stack developer based in Osaka with a
-          passion for building digital services/stuff he wants. He has a knack
-          for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. When not online, he loves
-          hanging out with his camera. Currently, he is living off of his own
+          
+          I am a fellow Malaysian  is based in Hong Kong and working as a Data Scientist with 
+          a passion for using data to build impactful and interesting AI applications. Some of 
+          my personal projects include building a UFC MMA fight predictor, Glassdoor Data Scientist 
+          Analyzer, and AI Video Interview Analyzer (AVIA), which won the 2021 HKU AI Robotics Vision 
+          Competition. When not doing Data Science-y stuff, I enjoying playing guitar, both electric
+          and acoustic and covering John Mayer songs (the blues stuff, not the pop). I am also an
+          avid Ultimate Fighting Championship (UFC) fan and have watched a few live events. Currently, 
+          he is living off of his own
           product called{' '}
           <NextLink href="/works/inkdrop">
             <Link>Inkdrop</Link>
