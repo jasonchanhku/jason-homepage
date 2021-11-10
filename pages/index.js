@@ -101,7 +101,7 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2012</BioYear>
-          <br>Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
+          {'\n'} Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
           BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
           2 semesters. Withdraw upon obtaining a scholarship to The University 
           of Hong Kong (HKU).
