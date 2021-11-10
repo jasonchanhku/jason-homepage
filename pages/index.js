@@ -108,29 +108,29 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2016</BioYear>
-          <br>Completed the BSc Quantitative Finance program at HKU. This program
+          {'\n'} Completed the BSc Quantitative Finance program at HKU. This program
           equipped me with fundamentals in mathematics, statistics, computer 
           science, and finance.
         </BioSection>
         <BioSection>
           <BioYear>2016 - 2018</BioYear>
-          <br>Worked at Fidelity International as a Junior Data Scientist in the
+          {'\n'} Worked at Fidelity International as a Junior Data Scientist in the
           Customer Insights and Analytics team.
         </BioSection>
         <BioSection>
           <BioYear>2019 - 2021</BioYear>
-          <br>Completed MSc Statistics, Data Analytics program at HKU. My final
+          {'\n'} Completed MSc Statistics, Data Analytics program at HKU. My final
           project is Applying Deep Learning Algorithms in Prostate Cancer
           Predictions from Scanned Images.
         </BioSection>
         <BioSection>
           <BioYear>2019 - present</BioYear>
-          <br>Working as a Data Scientist at China Light & Power (CLP) Holdings 
+          {'\n'} Working as a Data Scientist at China Light & Power (CLP) Holdings 
           in the Big Data and AI team.
         </BioSection>
         <BioSection>
           <BioYear>2021 - present</BioYear>
-          <br>Currently enrolled in MSc Computer Science program (MSCSO) at
+          {'\n'} Currently enrolled in MSc Computer Science program (MSCSO) at
           UT Austin.
         </BioSection>
       </Section>
