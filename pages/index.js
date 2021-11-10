@@ -43,9 +43,9 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Jason Chan Jin An
           </Heading>
-          <p>Digital Craftsman ( Artist / Developer / Designer )</p>
+          <p>Data Scientist ( Student / Guitarist )</p>
         </Box>
         <Box
           flexShrink={0}
