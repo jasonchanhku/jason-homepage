@@ -74,7 +74,7 @@ const Home = () => (
           
           I am a fellow Malaysian  is based in Hong Kong and working as a Data Scientist with 
           a passion for using data to build impactful and interesting AI applications. Some of 
-          my personal projects include building a UFC MMA fight predictor, Glassdoor Data Scientist 
+          my projects include building a UFC MMA fight predictor, Glassdoor Data Scientist 
           Analyzer, and AI Video Interview Analyzer (AVIA), which won the 2021 HKU AI Robotics Vision 
           Competition. When not doing Data Science-y stuff, I enjoying playing guitar, both electric
           and acoustic and covering John Mayer songs (the blues stuff, not the pop). I am also an
@@ -101,36 +101,36 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2012</BioYear>
-          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
+          <br>Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
           BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
           2 semesters. Withdraw upon obtaining a scholarship to The University 
           of Hong Kong (HKU).
         </BioSection>
         <BioSection>
           <BioYear>2016</BioYear>
-          Completed the BSc Quantitative Finance program at HKU. This program
+          <br>Completed the BSc Quantitative Finance program at HKU. This program
           equipped me with fundamentals in mathematics, statistics, computer 
           science, and finance.
         </BioSection>
         <BioSection>
-          <BioYear>2016 to 2018</BioYear>
-          Worked at Fidelity International as a Junior Data Scientist in the
+          <BioYear>2016 - 2018</BioYear>
+          <br>Worked at Fidelity International as a Junior Data Scientist in the
           Customer Insights and Analytics team.
         </BioSection>
         <BioSection>
-          <BioYear>2019 to 2021</BioYear>
-          Completed MSc Statistics, Data Analytics program at HKU. My final
+          <BioYear>2019 - 2021</BioYear>
+          <br>Completed MSc Statistics, Data Analytics program at HKU. My final
           project is Applying Deep Learning Algorithms in Prostate Cancer
-          Predictions.
+          Predictions from Scanned Images.
         </BioSection>
         <BioSection>
-          <BioYear>2019 to present</BioYear>
-          Working as a Data Scientist at China Light & Power (CLP) Holdings 
+          <BioYear>2019 - present</BioYear>
+          <br>Working as a Data Scientist at China Light & Power (CLP) Holdings 
           in the Big Data and AI team.
         </BioSection>
         <BioSection>
-          <BioYear>2021 to present</BioYear>
-          Currently enrolled in MSc Computer Science program (MSCSO) at
+          <BioYear>2021 - present</BioYear>
+          <br>Currently enrolled in MSc Computer Science program (MSCSO) at
           UT Austin.
         </BioSection>
       </Section>
