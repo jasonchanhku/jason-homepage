@@ -37,7 +37,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I&apos;m a full-stack developer based in Japan!
+        Hello, I&apos;m a Data Scientist based in Hong Kong!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -100,22 +100,38 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          <BioYear>2012</BioYear>
+          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
+          BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
+          2 semesters. Withdraw upon obtaining a scholarship to The University 
+          of Hong Kong (HKU).
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Completed the Master&apos;s Program in the Graduate School of
-          Information Science at Nara Institute of Science and Technology
-          (奈良先端科学技術大学院大学情報科学研究科修士課程)
+          <BioYear>2016</BioYear>
+          Completed the BSc Quantitative Finance program at HKU. This program
+          equipped me with fundamentals in mathematics, statistics, computer 
+          science, and finance.
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Worked at Yahoo! Japan (ヤフー株式会社入社)
+          <BioYear>2016 to 2018</BioYear>
+          Worked at Fidelity International as a Junior Data Scientist in the
+          Customer Insights and Analytics team.
         </BioSection>
         <BioSection>
-          <BioYear>2012 to present</BioYear>
-          Works as a freelance
+          <BioYear>2019 to 2021</BioYear>
+          Completed MSc Statistics, Data Analytics program at HKU. My final
+          project is Applying Deep Learning Algorithms in Prostate Cancer
+          Predictions.
+        </BioSection>
+        <BioSection>
+          <BioYear>2019 to present</BioYear>
+          Working as a Data Scientist at China Light & Power (CLP) Holdings 
+          in the Big Data and AI team.
+        </BioSection>
+        <BioSection>
+          <BioYear>2021 to present</BioYear>
+          Currently enrolled in MSc Computer Science program (MSCSO) at
+          UT Austin.
         </BioSection>
       </Section>
 
