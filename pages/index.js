@@ -68,7 +68,7 @@ const Home = () => (
 
       <Section delay={0.1}>
         <Heading as="h3" variant="section-title">
-          Work
+          About Myself
         </Heading>
         <Paragraph>
           
@@ -97,39 +97,45 @@ const Home = () => (
 
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Bio
+          Work Experience
         </Heading>
-        <BioSection>
-          <BioYear>2012</BioYear>
-          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
-          BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
-          2 semesters. Withdraw upon obtaining a scholarship to The University 
-          of Hong Kong (HKU).
-        </BioSection>
-        <BioSection>
-          <BioYear>2016</BioYear>
-          Completed the BSc Quantitative Finance program at HKU. This program
-          equipped me with fundamentals in mathematics, statistics, computer 
-          science, and finance.
-        </BioSection>
         <BioSection>
           <BioYear>2016 - 2018</BioYear>
           Worked at Fidelity International as a Junior Data Scientist in the
           Customer Insights and Analytics team.
         </BioSection>
         <BioSection>
+          <BioYear>2019 - Present</BioYear>
+          Working as a Data Scientist at China Light & Power (CLP) Holdings 
+          in the Big Data and AI team.
+        </BioSection>
+      </Section>
+
+      <Section delay={0.2}>
+        <Heading as="h3" variant="section-title">
+          Education
+        </Heading>
+        <BioSection>
+          <BioYear>2012 - 2012</BioYear>
+          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
+          BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
+          2 semesters. Withdraw upon obtaining a scholarship to The University 
+          of Hong Kong (HKU).
+        </BioSection>
+        <BioSection>
+          <BioYear>2012 - 2016</BioYear>
+          Completed the BSc Quantitative Finance program at HKU. This program
+          equipped me with fundamentals in mathematics, statistics, computer 
+          science, and finance.
+        </BioSection>
+        <BioSection>
           <BioYear>2019 - 2021</BioYear>
-          Completed MSc Statistics, Data Analytics program at HKU. My final
+          Completed the MSc Statistics, Data Analytics program at HKU. My final
           project is Applying Deep Learning Algorithms in Prostate Cancer
           Predictions from Scanned Images.
         </BioSection>
         <BioSection>
-          <BioYear>2019 - present</BioYear>
-          Working as a Data Scientist at China Light & Power (CLP) Holdings 
-          in the Big Data and AI team.
-        </BioSection>
-        <BioSection>
-          <BioYear>2021 - present</BioYear>
+          <BioYear>2021 - Present</BioYear>
           Currently enrolled in MSc Computer Science program (MSCSO) at
           UT Austin.
         </BioSection>
