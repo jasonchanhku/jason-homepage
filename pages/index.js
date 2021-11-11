@@ -72,7 +72,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           
-          I am a fellow Malaysian  is based in Hong Kong and working as a Data Scientist with 
+          I am a fellow Malaysian based in Hong Kong and working as a Data Scientist with 
           a passion for using data to build impactful and interesting AI applications. Some of 
           my projects include building a UFC MMA fight predictor, Glassdoor Data Scientist 
           Analyzer, and AI Video Interview Analyzer (AVIA), which won the 2021 HKU AI Robotics Vision 
@@ -99,38 +99,38 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           Bio
         </Heading>
-        <BioYear>2012</BioYear>
         <BioSection>
-          {'\n'} Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
+          <BioYear>2012</BioYear>
+          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
           BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
           2 semesters. Withdraw upon obtaining a scholarship to The University 
           of Hong Kong (HKU).
         </BioSection>
         <BioSection>
           <BioYear>2016</BioYear>
-          {'\n'} Completed the BSc Quantitative Finance program at HKU. This program
+          Completed the BSc Quantitative Finance program at HKU. This program
           equipped me with fundamentals in mathematics, statistics, computer 
           science, and finance.
         </BioSection>
         <BioSection>
           <BioYear>2016 - 2018</BioYear>
-          {'\n'} Worked at Fidelity International as a Junior Data Scientist in the
+          Worked at Fidelity International as a Junior Data Scientist in the
           Customer Insights and Analytics team.
         </BioSection>
         <BioSection>
           <BioYear>2019 - 2021</BioYear>
-          {'\n'} Completed MSc Statistics, Data Analytics program at HKU. My final
+          Completed MSc Statistics, Data Analytics program at HKU. My final
           project is Applying Deep Learning Algorithms in Prostate Cancer
           Predictions from Scanned Images.
         </BioSection>
         <BioSection>
           <BioYear>2019 - present</BioYear>
-          {'\n'} Working as a Data Scientist at China Light & Power (CLP) Holdings 
+          Working as a Data Scientist at China Light & Power (CLP) Holdings 
           in the Big Data and AI team.
         </BioSection>
         <BioSection>
           <BioYear>2021 - present</BioYear>
-          {'\n'} Currently enrolled in MSc Computer Science program (MSCSO) at
+          Currently enrolled in MSc Computer Science program (MSCSO) at
           UT Austin.
         </BioSection>
       </Section>
