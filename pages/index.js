@@ -99,8 +99,8 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           Bio
         </Heading>
+        <BioYear>2012</BioYear>
         <BioSection>
-          <BioYear>2012</BioYear>
           {'\n'} Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
           BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
           2 semesters. Withdraw upon obtaining a scholarship to The University 
