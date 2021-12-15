@@ -76,7 +76,7 @@ const Home = () => (
           a passion for using data to build impactful and interesting AI applications. Some of 
           my projects include building a UFC MMA fight predictor, Glassdoor Data Scientist 
           Analyzer, and AI Video Interview Analyzer (AVIA), which won the 2021 HKU AI Robotics Vision 
-          Competition. When not doing Data Science-y stuff, I enjoying playing guitar, both electric
+          Competition. When not doing Data Science-y stuff, I enjoy playing guitar, both electric
           and acoustic and covering John Mayer songs (the blues stuff, not the pop). I am also an
           avid Ultimate Fighting Championship (UFC) fan and have watched a few live events. Currently, 
           he is living off of his own
@@ -141,12 +141,34 @@ const Home = () => (
         </BioSection>
       </Section>
 
+
+      <Section delay={0.2}>
+        <Heading as="h3" variant="section-title">
+          Competitions
+        </Heading>
+        <BioSection>
+          <BioYear>2019 - China Southern Grid AI Competition (Ranked 10)</BioYear>
+          Represented my company China Light & Power Holdings (CLP) in a team of 3 to take part in this AI competition. The
+          aim of the competition is to build models for short term load forecast of 4 provinces in China. We competed against 38 teams
+          consisting of famous tech companies such as TenCent and Alibaba and top universities such as HKU, HKUST, PKU, and Tsinghua University.
+        </BioSection>
+        <BioSection>
+          <BioYear>2021 - HKU AI Robotics Vision and Automation Technology Competition (Winner) </BioYear>
+          Lead coder and team leader of winning team. The competition was to build an AI application that includes computer vision and
+          text analytics. Our team built an AI application called AI Video Interview Analyzer (AVIA), an AI application that helps students prepare
+          for online interviews. We implemented facial expression recognition, eye contact detection, and text analytics in the application. 
+        </BioSection>
+      </Section>
+
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
-          I ♥
+          My Interests
         </Heading>
         <Paragraph>
-          Art, Music,{' '}
+          Data Science, Statistics, Machine Learning, Deep Learning, Computer Vision, 
+          Blues Music, Mixed Martial Arts, Manchester United 
+          /*
+            {' '}
           <Link href="https://illust.odoruinu.net/" target="_blank">
             Drawing
           </Link>
@@ -155,6 +177,8 @@ const Home = () => (
             Photography
           </Link>
           , Leica, Machine Learning
+          
+          */
         </Paragraph>
       </Section>
 
