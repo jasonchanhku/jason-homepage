@@ -22,7 +22,9 @@ import {
   IoLogoTwitter,
   IoLogoInstagram,
   IoLogoGithub,
-  IoLogoDiscord
+  IoLogoDiscord,
+  IoLogoLinkedin
+
 } from 'react-icons/io5'
 import thumbYouTube from '../public/images/links/youtube.png'
 import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
@@ -237,13 +239,13 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://discord.gg/QfsG5Kj" target="_blank">
+            <Link href="https://www.linkedin.com/in/jason-chan-jin-an-45a76a76/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
-                leftIcon={<Icon as={IoLogoDiscord} />}
+                leftIcon={<Icon as={IoLogoLinkedin} />}
               >
-                Discord
+                LinkedIn
               </Button>
             </Link>
           </ListItem>
