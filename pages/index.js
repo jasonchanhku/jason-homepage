@@ -101,13 +101,17 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2016 - 2018</BioYear>
+          <p>
           Worked at Fidelity International as a Junior Data Scientist in the
           Customer Insights and Analytics team.
+          </p>
         </BioSection>
         <BioSection>
           <BioYear>2019 - Present</BioYear>
+          <p>
           Working as a Data Scientist at China Light & Power (CLP) Holdings 
           in the Big Data and AI team.
+          </p>
         </BioSection>
       </Section>
 
@@ -117,27 +121,35 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2012 - 2012</BioYear>
+          <p>
           Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
           BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
           2 semesters. Withdraw upon obtaining a scholarship to The University 
           of Hong Kong (HKU).
+          </p>
         </BioSection>
         <BioSection>
           <BioYear>2012 - 2016</BioYear>
+          <p>
           Completed the BSc Quantitative Finance program at HKU. This program
           equipped me with fundamentals in mathematics, statistics, computer 
           science, and finance.
+          </p>
         </BioSection>
         <BioSection>
           <BioYear>2019 - 2021</BioYear>
+          <p>
           Completed the MSc Statistics, Data Analytics program at HKU. My final
           project is Applying Deep Learning Algorithms in Prostate Cancer
           Predictions from Scanned Images.
+          </p>
         </BioSection>
         <BioSection>
           <BioYear>2021 - Present</BioYear>
+          <p>
           Currently enrolled in MSc Computer Science program (MSCSO) at
           UT Austin.
+          </p>
         </BioSection>
       </Section>
 
@@ -148,9 +160,11 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2019 - China Southern Grid AI Competition (Rank 10)</BioYear>
+          <p>
           Represented my company China Light & Power Holdings (CLP) in a team of 3 to take part in this AI competition. The
           aim of the competition is to build models for short term load forecast of 4 provinces in China. We competed against 38 teams
           consisting of famous tech companies such as TenCent and Alibaba and top universities such as HKU, HKUST, PKU, and Tsinghua University.
+          </p>
         </BioSection>
         <BioSection>
           <BioYear>2021 - HKU AI Robotics Vision and Automation Technology Competition (Winner) </BioYear>
