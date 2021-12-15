@@ -154,11 +154,11 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2021 - HKU AI Robotics Vision and Automation Technology Competition (Winner) </BioYear>
-          <pre>
+          <p>
           Lead coder and team leader of winning team. The competition was to build an AI application that includes computer vision and
           text analytics. Our team built an AI application called AI Video Interview Analyzer (AVIA), an AI application that helps students prepare
           for online interviews. We implemented facial expression recognition, eye contact detection, and text analytics in the application. 
-          </pre>
+          </p>
         </BioSection>
       </Section>
       
