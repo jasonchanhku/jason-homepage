@@ -160,7 +160,6 @@ const Home = () => (
         </BioSection>
       </Section>
       
-/*
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           My Interests
@@ -170,21 +169,7 @@ const Home = () => (
           Blues Music, Mixed Martial Arts, Manchester United 
         </Paragraph>
       </Section>
-      
-      */
-
-          /*
-            {' '}
-          <Link href="https://illust.odoruinu.net/" target="_blank">
-            Drawing
-          </Link>
-          , Playing Drums,{' '}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
-            Photography
-          </Link>
-          , Leica, Machine Learning
-          
-          */
+ 
 
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
