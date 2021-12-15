@@ -22,7 +22,6 @@ import {
   IoLogoTwitter,
   IoLogoInstagram,
   IoLogoGithub,
-  IoLogoDiscord,
   IoLogoLinkedin
 
 } from 'react-icons/io5'
