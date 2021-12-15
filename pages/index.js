@@ -147,16 +147,18 @@ const Home = () => (
           Competitions
         </Heading>
         <BioSection>
-          <BioYear>2019 - China Southern Grid AI Competition (Ranked 10)</BioYear>
+          <BioYear>2019 - China Southern Grid AI Competition (Rank 10)</BioYear>
           Represented my company China Light & Power Holdings (CLP) in a team of 3 to take part in this AI competition. The
           aim of the competition is to build models for short term load forecast of 4 provinces in China. We competed against 38 teams
           consisting of famous tech companies such as TenCent and Alibaba and top universities such as HKU, HKUST, PKU, and Tsinghua University.
         </BioSection>
         <BioSection>
           <BioYear>2021 - HKU AI Robotics Vision and Automation Technology Competition (Winner) </BioYear>
+          <pre>
           Lead coder and team leader of winning team. The competition was to build an AI application that includes computer vision and
           text analytics. Our team built an AI application called AI Video Interview Analyzer (AVIA), an AI application that helps students prepare
           for online interviews. We implemented facial expression recognition, eye contact detection, and text analytics in the application. 
+          </pre>
         </BioSection>
       </Section>
       
