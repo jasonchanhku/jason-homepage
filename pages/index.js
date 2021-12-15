@@ -100,14 +100,14 @@ const Home = () => (
           Work Experience
         </Heading>
         <BioSection>
-          <BioYear>2016 - 2018</BioYear>
+          <BioYear>2016 - 2018, Fidelity International</BioYear>
           <p>
           Worked at Fidelity International as a Junior Data Scientist in the
           Customer Insights and Analytics team.
           </p>
         </BioSection>
         <BioSection>
-          <BioYear>2019 - Present</BioYear>
+          <BioYear>2019 - Present, China Light & Power (CLP)</BioYear>
           <p>
           Working as a Data Scientist at China Light & Power (CLP) Holdings 
           in the Big Data and AI team.
@@ -120,7 +120,7 @@ const Home = () => (
           Education
         </Heading>
         <BioSection>
-          <BioYear>2012 - 2012</BioYear>
+          <BioYear>2012 - 2012, Tunku Abdul Rahman University (UTAR)</BioYear>
           <p>
           Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
           BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
@@ -129,7 +129,7 @@ const Home = () => (
           </p>
         </BioSection>
         <BioSection>
-          <BioYear>2012 - 2016</BioYear>
+          <BioYear>2012 - 2016, University of Hong Kong (HKU)</BioYear>
           <p>
           Completed the BSc Quantitative Finance program at HKU. This program
           equipped me with fundamentals in mathematics, statistics, computer 
@@ -137,7 +137,7 @@ const Home = () => (
           </p>
         </BioSection>
         <BioSection>
-          <BioYear>2019 - 2021</BioYear>
+          <BioYear>2019 - 2021, University of Hong Kong (HKU)</BioYear>
           <p>
           Completed the MSc Statistics, Data Analytics program at HKU. My final
           project is Applying Deep Learning Algorithms in Prostate Cancer
@@ -145,7 +145,7 @@ const Home = () => (
           </p>
         </BioSection>
         <BioSection>
-          <BioYear>2021 - Present</BioYear>
+          <BioYear>2021 - Present, University of Austin at Texas</BioYear>
           <p>
           Currently enrolled in MSc Computer Science program (MSCSO) at
           UT Austin.
