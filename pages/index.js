@@ -159,7 +159,8 @@ const Home = () => (
           for online interviews. We implemented facial expression recognition, eye contact detection, and text analytics in the application. 
         </BioSection>
       </Section>
-
+      
+/*
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           My Interests
@@ -167,6 +168,11 @@ const Home = () => (
         <Paragraph>
           Data Science, Statistics, Machine Learning, Deep Learning, Computer Vision, 
           Blues Music, Mixed Martial Arts, Manchester United 
+        </Paragraph>
+      </Section>
+      
+      */
+
           /*
             {' '}
           <Link href="https://illust.odoruinu.net/" target="_blank">
@@ -179,8 +185,6 @@ const Home = () => (
           , Leica, Machine Learning
           
           */
-        </Paragraph>
-      </Section>
 
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
