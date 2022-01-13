@@ -101,17 +101,17 @@ const Home = () => (
           Work Experience
         </Heading>
         <BioSection>
-          <BioYear>2016 - 2018, Fidelity International</BioYear>
-          <p>
-          Worked at Fidelity International as a Junior Data Scientist in the
-          Customer Insights and Analytics team.
-          </p>
-        </BioSection>
-        <BioSection>
           <BioYear>2019 - Present, China Light & Power (CLP)</BioYear>
           <p>
           Working as a Data Scientist at China Light & Power (CLP) Holdings 
           in the Big Data and AI team.
+          </p>
+        </BioSection>
+        <BioSection>
+          <BioYear>2016 - 2018, Fidelity International</BioYear>
+          <p>
+          Worked at Fidelity International as a Junior Data Scientist in the
+          Customer Insights and Analytics team.
           </p>
         </BioSection>
       </Section>
