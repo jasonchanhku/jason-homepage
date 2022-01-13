@@ -22,7 +22,8 @@ import {
   IoLogoTwitter,
   IoLogoInstagram,
   IoLogoGithub,
-  IoLogoLinkedin
+  IoLogoLinkedin,
+  IoLogoYoutube
 
 } from 'react-icons/io5'
 import thumbYouTube from '../public/images/links/youtube.png'
@@ -243,6 +244,17 @@ const Home = () => (
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<Icon as={IoLogoLinkedin} />}
+              >
+                LinkedIn
+              </Button>
+            </Link>
+          </ListItem>
+          <ListItem>
+            <Link href="https://www.youtube.com/channel/UCqo4uaSvuU9H8pZ9knqXWvQ" target="_blank">
+              <Button
+                variant="ghost"
+                colorScheme="teal"
+                leftIcon={<Icon as={IoLogoYoutube} />}
               >
                 LinkedIn
               </Button>
