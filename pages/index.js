@@ -121,20 +121,10 @@ const Home = () => (
           Education
         </Heading>
         <BioSection>
-          <BioYear>2012 - 2012, Tunku Abdul Rahman University (UTAR)</BioYear>
+          <BioYear>2021 - Present, University of Austin at Texas</BioYear>
           <p>
-          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
-          BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
-          2 semesters. Withdraw upon obtaining a scholarship to The University 
-          of Hong Kong (HKU).
-          </p>
-        </BioSection>
-        <BioSection>
-          <BioYear>2012 - 2016, University of Hong Kong (HKU)</BioYear>
-          <p>
-          Completed the BSc Quantitative Finance program at HKU. This program
-          equipped me with fundamentals in mathematics, statistics, computer 
-          science, and finance.
+          Currently enrolled in MSc Computer Science program (MSCSO) at
+          UT Austin.
           </p>
         </BioSection>
         <BioSection>
@@ -146,10 +136,20 @@ const Home = () => (
           </p>
         </BioSection>
         <BioSection>
-          <BioYear>2021 - Present, University of Austin at Texas</BioYear>
+          <BioYear>2012 - 2016, University of Hong Kong (HKU)</BioYear>
           <p>
-          Currently enrolled in MSc Computer Science program (MSCSO) at
-          UT Austin.
+          Completed the BSc Quantitative Finance program at HKU. This program
+          equipped me with fundamentals in mathematics, statistics, computer 
+          science, and finance.
+          </p>
+        </BioSection>
+        <BioSection>
+          <BioYear>2012 - 2012, Tunku Abdul Rahman University (UTAR)</BioYear>
+          <p>
+          Completed A-Levels in Kuala Lumpur Malaysia and enrolled in
+          BSc Actuarial Science in Tunku Abdul Rahman University (UTAR) for 
+          2 semesters. Withdraw upon obtaining a scholarship to The University 
+          of Hong Kong (HKU).
           </p>
         </BioSection>
       </Section>
