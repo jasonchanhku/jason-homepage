@@ -72,14 +72,17 @@ const Navbar = props => {
           mt={{ base: 4, md: 0 }}
         >
           <LinkItem href="/works" path={path}>
-            Works
+                      Works
+          </LinkItem>
+          <LinkItem href="/competitions" path={path}>
+                      Competitions
           </LinkItem>
           <LinkItem href="/posts" path={path}>
             Posts
           </LinkItem>
           <LinkItem
             _target="_blank"
-            href="https://github.com/craftzdog/craftzdog-homepage"
+            href="https://github.com/jasonchanhku"
             path={path}
             display="inline-flex"
             alignItems="center"
@@ -104,17 +107,20 @@ const Navbar = props => {
               />
               <MenuList>
                 <NextLink href="/" passHref>
-                  <MenuItem as={Link}>About</MenuItem>
+                  <MenuItem as={Link}>Home</MenuItem>
                 </NextLink>
                 <NextLink href="/works" passHref>
                   <MenuItem as={Link}>Works</MenuItem>
+                </NextLink>
+                <NextLink href="/competitions" passHref>
+                <MenuItem as={Link}>Competitions</MenuItem>
                 </NextLink>
                 <NextLink href="/posts" passHref>
                   <MenuItem as={Link}>Posts</MenuItem>
                 </NextLink>
                 <MenuItem
                   as={Link}
-                  href="https://github.com/craftzdog/craftzdog-homepage"
+                  href="https://github.com/jasonchanhku"
                 >
                   View Source
                 </MenuItem>
