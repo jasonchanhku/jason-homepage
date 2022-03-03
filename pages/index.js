@@ -26,7 +26,7 @@ import {
 
 } from 'react-icons/io5'
 import thumbYouTube from '../public/images/links/youtube.png'
-import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
+import thumbGitHub from '../public/images/works/mygithub.png'
 
 const Home = () => (
   <Layout>
@@ -248,11 +248,11 @@ const Home = () => (
             My YouTube channel
           </GridItem>
           <GridItem
-            href="https://www.inkdrop.app/"
-            title="Inkdrop"
-            thumbnail={thumbInkdrop}
+            href="https://github.com/jasonchanhku"
+            title="jasonchanhku"
+            thumbnail={thumbGitHub}
           >
-            A Markdown note-taking app
+            My Github profile & repos
           </GridItem>
         </SimpleGrid>
 
