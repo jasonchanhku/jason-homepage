@@ -21,29 +21,32 @@ const Work = () => (
         UFC MMA Predictor <Badge>2018-</Badge>
       </Title>
       <P>
-        walknote recommends new music you may like based on your music
-        preferences by recognizing your favorite songs stored in your device.
-        You can listen to recommended music just like a radio!
+        As a Data Scientist and Ultimate Fighting Championship (UFC) fan, there was no way
+        that I wasn't going to build the world's first UFC MMA predictor. I built this web application
+        in late 2018 while waiting for my new job to start at that time. I sourced the data on fighters
+        and UFC fights from public sources and scrapped all the data using a container service that stores
+        it in a sqlite3 database. The predictor is estimated to have an accuracy of 70.4%, better than
+        random guess and picking favourite only!
       </P>
       <P>
-        This service has been closed. Thank you for over 130,000 registered
-        users!
+        Per the results from Google Analytics, my web application received over
+        200 views per month. Most users are from the U.S and Canada. Thanks for all your support!
       </P>
       <List ml={4} my={4}>
         <ListItem>
-          <Meta>Platform</Meta>
+          <Meta>Web application deployed on Heroku</Meta>
           <span>iOS</span>
         </ListItem>
         <ListItem>
-          <Meta>Blogpost</Meta>
-          <Link href="https://archive.craftz.dog/blog.odoruinu.net/2016/09/06/farewell-from-walknote/">
-            音楽発掘アプリwalknoteクローズのお知らせ{' '}
+          <Meta>GitHub Repo</Meta>
+          <Link href="https://github.com/jasonchanhku/UFC-MMA-Predictor">
+            UFC MMA Predictor{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Stack</Meta>
-          <span>Python, sqlite3, morph.io</span>
+          <span>Python, Dash, sqlite3, morph.io (containerized web scraping)</span>
         </ListItem>
       </List>
 
