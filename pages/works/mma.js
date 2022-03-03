@@ -29,7 +29,7 @@ const Work = () => (
                 random guess and picking favourite only!
       </P>
       <P>
-                Per the results from Google Analytics, my web application received over
+                Per the results from Google Analytics, my web application receives over
                 200 views per month. Most users are from the U.S and Canada. Thanks for all your support!
       </P>
       <List ml={4} my={4}>
