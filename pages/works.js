@@ -23,7 +23,7 @@ const Works = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
           <WorkGridItem id="mma" title="UFC MMA Predictor" thumbnail={thumbMma}>
-           The world &apos; s first web application that predicts outcome of a UFC fight
+           The world&apos;s first web application that predicts outcome of a UFC fight
           </WorkGridItem>
         </Section>
         <Section>
