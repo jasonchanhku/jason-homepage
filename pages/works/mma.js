@@ -48,6 +48,13 @@ const Work = () => (
           <Meta>Stack</Meta>
           <span>Python, Dash, sqlite3, morph.io (containerized web scrappper)</span>
         </ListItem>
+        <ListItem>
+          <Meta>Data Analysis & Modelling</Meta>
+           <Link href="https://nbviewer.org/github/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb">
+           Jupyter Notebook {' '}
+           <ExternalLinkIcon mx="2px" />
+           </Link>
+         </ListItem>
       </List>
 
       <Heading as="h4" fontSize={16} my={6}>
