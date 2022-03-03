@@ -30,7 +30,9 @@ const Work = () => (
       </P>
       <P>
                 Per the results from Google Analytics, my web application receives over
-                200 views per month. Most users are from the U.S and Canada. Thanks for all your support!
+                200 views per month. Most users are from the U.S and Canada. I have also
+                noticed an increasing amount of citations in academia from my work. Thanks for all your support and
+                glad to have inspired some of you!
       </P>
       <List ml={4} my={4}>
         <ListItem>
@@ -63,36 +65,19 @@ const Work = () => (
 
       <UnorderedList my={4}>
         <ListItem>
-          <Link href="http://renewal49.hateblo.jp/entry/20120710/1341925681">
-            <Badge mr={2}>リニューアル式</Badge>
-            強力すぎて紹介しそびれていた音楽好きのための神アプリ『walknote』
+          <Link href="https://medium.com/plotly/7-of-the-dash-communitys-latest-creations-ed4f53e0b1fa">
+            <Badge mr={2}>Plotly</Badge>
+            7 of the dash&apos;s community latest creation
             <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
 
         <ListItem>
-          <Link href="http://www.appbank.net/2011/10/15/iphone-application/309349.php">
-            <Badge mr={2}>appbank</Badge>
-            walknote:
-            CD屋の試聴機が、自分向けになって手元に到着。そんな曲探しアプリ。無料。
+          <Link href="https://towardsdatascience.com/my-top-5-visualization-tools-for-data-science-45a4968ae695">
+            <Badge mr={2}>Zeming Yu</Badge>
+             My top 5 visualization tools for data science
             <ExternalLinkIcon mx="2px" />
           </Link>
-        </ListItem>
-
-        <ListItem>
-          <Link href="http://www.danshihack.com/2012/07/18/junp/iphoneapp-walknote.html">
-            <Badge mr={2}>男子ハック</Badge>
-            [おすすめの音楽をレコメンド！ストリーミング再生してくれるiPhoneアプリ「walknote」が素敵。
-          </Link>
-          <ExternalLinkIcon mx="2px" />
-        </ListItem>
-
-        <ListItem>
-          <Badge mr={2}>タブロイド</Badge>
-          <Link href="http://www.tabroid.jp/app/multimedia/2013/05/app.walknote.html">
-            「YOU、これ聴いちゃいなよ」自分好みの曲が勝手に集まる音楽プレーヤー『walknote』
-          </Link>
-          <ExternalLinkIcon mx="2px" />
         </ListItem>
       </UnorderedList>
 
