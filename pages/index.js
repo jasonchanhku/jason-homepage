@@ -242,7 +242,7 @@ const Home = () => (
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
             href="https://www.youtube.com/channel/UCqo4uaSvuU9H8pZ9knqXWvQ"
-            title="Jason Chan"
+            title="Jason Chan Guitar"
             thumbnail={thumbYouTube}
           >
             My YouTube channel
