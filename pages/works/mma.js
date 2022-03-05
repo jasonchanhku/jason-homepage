@@ -34,14 +34,21 @@ const Work = () => (
                 noticed an increasing amount of citations in academia from my work. Thanks for all your support and
                 glad to have inspired some of you!
       </P>
-      <List ml={4} my={4}>
-        <ListItem>
-          <Meta>Platform</Meta>
-          <span>Web application deployed on Heroku</span>
-        </ListItem>
+      <List ml={5} my={5}>
+      <ListItem>
+      <Meta>Platform</Meta>
+      <span>Web application deployed on Heroku</span>
+      </ListItem>
+      <ListItem>
+      <Meta>Website</Meta>
+      <Link href="https://ufcmmapredictor.herokuapp.com/" target="_blank">
+       https://ufcmmapredictor.herokuapp.com/{' '}
+       <ExternalLinkIcon mx="2px" />
+      </Link>
+      </ListItem>
         <ListItem>
           <Meta>GitHub Repo</Meta>
-         <Link href="https://github.com/jasonchanhku/UFC-MMA-Predictor">
+          <Link href="https://github.com/jasonchanhku/UFC-MMA-Predictor" target="_blank">
             UFC MMA Predictor{' '}
             <ExternalLinkIcon mx="2px" />
           </Link>
@@ -52,7 +59,7 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Data Analysis & Modelling</Meta>
-           <Link href="https://nbviewer.org/github/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb">
+           <Link href="https://nbviewer.org/github/jasonchanhku/UFC-MMA-Predictor/blob/master/UFC%20MMA%20Predictor%20Workflow.ipynb" target="_blank">
            Jupyter Notebook {' '}
            <ExternalLinkIcon mx="2px" />
            </Link>
@@ -65,7 +72,7 @@ const Work = () => (
 
       <UnorderedList my={4}>
         <ListItem>
-          <Link href="https://medium.com/plotly/7-of-the-dash-communitys-latest-creations-ed4f53e0b1fa">
+          <Link href="https://medium.com/plotly/7-of-the-dash-communitys-latest-creations-ed4f53e0b1fa" target="_blank">
             <Badge mr={2}>Plotly</Badge>
             7 of the dash&apos;s community latest creation
             <ExternalLinkIcon mx="2px" />
@@ -73,7 +80,7 @@ const Work = () => (
         </ListItem>
 
         <ListItem>
-          <Link href="https://towardsdatascience.com/my-top-5-visualization-tools-for-data-science-45a4968ae695">
+          <Link href="https://towardsdatascience.com/my-top-5-visualization-tools-for-data-science-45a4968ae695" target="_blank">
             <Badge mr={2}>Zeming Yu</Badge>
              My top 5 visualization tools for data science
             <ExternalLinkIcon mx="2px" />
