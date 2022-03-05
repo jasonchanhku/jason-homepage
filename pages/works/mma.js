@@ -36,16 +36,16 @@ const Work = () => (
       </P>
       <List ml={5} my={5}>
       <ListItem>
-      <Meta>Platform</Meta>
-      <span>Web application deployed on Heroku</span>
-      </ListItem>
-      <ListItem>
       <Meta>Website</Meta>
       <Link href="https://ufcmmapredictor.herokuapp.com/" target="_blank">
        https://ufcmmapredictor.herokuapp.com/{' '}
        <ExternalLinkIcon mx="2px" />
       </Link>
-      </ListItem>
+        </ListItem>
+        <ListItem>
+        <Meta>Platform</Meta>
+        <span>Web application deployed on Heroku</span>
+        </ListItem>
         <ListItem>
           <Meta>GitHub Repo</Meta>
           <Link href="https://github.com/jasonchanhku/UFC-MMA-Predictor" target="_blank">
