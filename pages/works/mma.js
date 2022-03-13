@@ -92,11 +92,14 @@ const Work = () => (
       <Center>Screenshots</Center>
       </Heading>
 
+     /*
       <SimpleGrid columns={2} gap={2}>
         <WorkImage src="/images/works/walknote_01.png" alt="walknote" />
         <WorkImage src="/images/works/walknote_02.png" alt="walknote" />
       </SimpleGrid>
-      <WorkImage src="/images/works/walknote_03.png" alt="walknote" />
+     */
+
+      <WorkImage src="/images/works/mma.gif" alt="mma" />
       <WorkImage src="/images/works/walknote_04.png" alt="walknote" />
       <WorkImage src="/images/works/walknote_05.png" alt="walknote" />
     </Container>
