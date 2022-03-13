@@ -102,8 +102,13 @@ const Work = () => (
             <P>
                 Usage of the web application. Select fighters from weight class and then click predict.
             </P>
-      <WorkImage src="/images/works/walknote_04.png" alt="walknote" />
-      <WorkImage src="/images/works/walknote_05.png" alt="walknote" />
+
+      <WorkImage src="/images/works/mma_01.png" alt="walknote" />
+            <P>
+                Example fight prediction of the headline main event of UFC217 between GSP and Michael Bisping. GSP went on to actually win the fight.
+            </P>
+
+
     </Container>
   </Layout>
 )
