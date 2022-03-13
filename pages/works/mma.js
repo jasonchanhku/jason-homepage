@@ -101,7 +101,7 @@ const Work = () => (
       <WorkImage src="/images/works/mma.gif" alt="mma" />
             <P>
                 Usage of the web application. Select fighters from weight class and then click predict.
-            </P>
+            </P><br/>
 
       <WorkImage src="/images/works/mma_01.png" alt="walknote" />
             <P>
