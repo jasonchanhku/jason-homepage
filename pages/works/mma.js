@@ -99,6 +99,9 @@ const Work = () => (
      */}
 
       <WorkImage src="/images/works/mma.gif" alt="mma" />
+            <P>
+                Usage of the web application. Select fighters from weight class and then click predict.
+            </P>
       <WorkImage src="/images/works/walknote_04.png" alt="walknote" />
       <WorkImage src="/images/works/walknote_05.png" alt="walknote" />
     </Container>
