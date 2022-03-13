@@ -15,7 +15,7 @@ import { Title, WorkImage, Meta } from '../../components/work'
 import P from '../../components/paragraph'
 
 const Work = () => (
-  <Layout title="walknote">
+  <Layout title="UFC MMA Predictor">
     <Container>
       <Title>
         UFC MMA Predictor <Badge>2018-</Badge>
@@ -87,6 +87,10 @@ const Work = () => (
           </Link>
         </ListItem>
       </UnorderedList>
+
+      <Heading as="h4" fontSize={16} my={6}>
+      <Center>Screenshots</Center>
+      </Heading>
 
       <SimpleGrid columns={2} gap={2}>
         <WorkImage src="/images/works/walknote_01.png" alt="walknote" />
