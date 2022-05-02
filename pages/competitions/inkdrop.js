@@ -8,11 +8,10 @@ const Work = () => (
   <Layout title="Inkdrop">
     <Container>
       <Title>
-        Inkdrop <Badge>2016-</Badge>
+        Inkdrop <Badge>2021</Badge>
       </Title>
       <P>
-        A Markdown note-taking app with 100+ plugins, cross-platform and
-        encrypted data sync support. The life-time revenue is more than $200k.
+        An AI competition hosted by HKU's Data Science Lab for full time and part time students.
       </P>
       <List ml={4} my={4}>
         <ListItem>
