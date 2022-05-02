@@ -29,7 +29,7 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Solution</Meta>
-                    <Link href="https://github.com/jasonchanhku/jasonchanjinan/blob/master/public/STAT8021_AVIA.pdf" target="_blank">
+                    <Link href="https://nbviewer.org/github/jasonchanhku/jasonchanjinan/blob/master/public/STAT8021_AVIA.pdf" target="_blank">
            Artificial Intelligence Video Interview Analyzer (AVIA) <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
@@ -50,31 +50,31 @@ const Work = () => (
         </ListItem>
       </List>
 
-            <Heading as="h4" fontSize={16} my={6}>
-                <Center>Media coverage</Center>
-            </Heading>
+    <Heading as="h4" fontSize={16} my={6}>
+        <Center>Media coverage</Center>
+    </Heading>
 
-            <UnorderedList my={4}>
-                <ListItem>
-                    <Link href="https://medium.com/plotly/7-of-the-dash-communitys-latest-creations-ed4f53e0b1fa" target="_blank">
-                        <Badge mr={2}>Plotly</Badge>
-            7 of the dash&apos;s community latest creation
-            <ExternalLinkIcon mx="2px" />
-                    </Link>
-                </ListItem>
+    <UnorderedList my={4}>
+        <ListItem>
+            <Link href="https://medium.com/plotly/7-of-the-dash-communitys-latest-creations-ed4f53e0b1fa" target="_blank">
+                <Badge mr={2}>Plotly</Badge>
+    7 of the dash&apos;s community latest creation
+    <ExternalLinkIcon mx="2px" />
+            </Link>
+        </ListItem>
 
-                <ListItem>
-                    <Link href="https://towardsdatascience.com/my-top-5-visualization-tools-for-data-science-45a4968ae695" target="_blank">
-                        <Badge mr={2}>Zeming Yu</Badge>
-             My top 5 visualization tools for data science
-            <ExternalLinkIcon mx="2px" />
-                    </Link>
-                </ListItem>
-            </UnorderedList>
+        <ListItem>
+            <Link href="https://towardsdatascience.com/my-top-5-visualization-tools-for-data-science-45a4968ae695" target="_blank">
+                <Badge mr={2}>Zeming Yu</Badge>
+        My top 5 visualization tools for data science
+    <ExternalLinkIcon mx="2px" />
+            </Link>
+        </ListItem>
+    </UnorderedList>
 
-            <Heading as="h4" fontSize={16} my={6}>
-                <Center>Screenshots</Center>
-            </Heading>
+    <Heading as="h4" fontSize={16} my={6}>
+        <Center>Award Ceremony</Center>
+    </Heading>
 
       <WorkImage src="/images/works/inkdrop_01.png" alt="Inkdrop" />
       <WorkImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
