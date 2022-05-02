@@ -23,8 +23,7 @@ const Competitions = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
           <CompetitionsGridItem id="inkdrop" title="HKU AI Robotics Vision Competition" thumbnail={thumbInkdrop}>
-            A Markdown note-taking app with 100+ plugins, cross-platform and
-            encrypted data sync support
+              An AI competition hosted by HKU&apos;s Data Science Lab for full time and part time students.
           </CompetitionsGridItem>
         </Section>
         <Section>

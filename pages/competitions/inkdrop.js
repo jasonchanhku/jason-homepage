@@ -11,7 +11,7 @@ const Work = () => (
         Inkdrop <Badge>2021</Badge>
       </Title>
       <P>
-         An AI competition hosted by HKU&apos;s Data Science Lab for full time and part time students.
+         TEmplate
       </P>
       <List ml={4} my={4}>
         <ListItem>
