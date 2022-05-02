@@ -22,7 +22,7 @@ const Competitions = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
-          <CompetitionsGridItem id="inkdrop" title="Inkdrop" thumbnail={thumbInkdrop}>
+          <CompetitionsGridItem id="inkdrop" title="HKU AI Robotics Vision Competition" thumbnail={thumbInkdrop}>
             A Markdown note-taking app with 100+ plugins, cross-platform and
             encrypted data sync support
           </CompetitionsGridItem>
