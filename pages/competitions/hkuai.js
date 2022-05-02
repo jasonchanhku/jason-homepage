@@ -29,7 +29,7 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Solution</Meta>
-          <Link href="https://github.com/jasonchanhku/jasonchanjinan/raw/master/public/hku_article.pdf">
+                    <Link href="https://github.com/jasonchanhku/jasonchanjinan/blob/master/public/STAT8021_AVIA.pdf" target="_blank">
            Artificial Intelligence Video Interview Analyzer (AVIA) <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
