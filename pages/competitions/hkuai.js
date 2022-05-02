@@ -15,7 +15,7 @@ const Work = () => (
                 robotics vision and automation technologies at the school level and the industry level. The competition encourages students and companies to develop innovative AI robotics solutions with AI,
                 data science and statistical tools for solving current hot topics/problems in robotics vision and automation. The competition
                 also serves as a platform for local secondary schools, institutions, and industries to share knowledge, innovation and
-                experience on the application of AI robotics technologies for solving business problems, enhancing businesses’
+                experience on the application of AI robotics technologies for solving business problems, enhancing businesses&apos;
                 competitiveness, and creating business insights for industries in social science, smart city, healthcare, education,
                 and Internet of Things (IoT).
       </P>
@@ -23,7 +23,7 @@ const Work = () => (
                 I was the team leader and lead coder of our group which developed the solution Artificial Intelligence Video Interview Analyzer (AVIA). AVIA
                 is an AI web application that aims to help students practice for online interviews and assessments as part of the digital transformation
                 caused by COVID-19. The web application uses face detection, facial expression prediction, eye gaze tracking, and sentiment analysis to
-                compute the students' scores when using AVIA. The detailed breakdown of the scores are available in a elegantly summarized dashboard where
+                compute the students&apos; scores when using AVIA. The detailed breakdown of the scores are available in a elegantly summarized dashboard where
                 students can pinpoint their weaknesses during the interview assessment.
       </P>
       <List ml={4} my={4}>
