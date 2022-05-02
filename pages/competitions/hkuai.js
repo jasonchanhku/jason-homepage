@@ -5,20 +5,23 @@ import P from '../../components/paragraph'
 import Layout from '../../components/layouts/article'
 
 const Work = () => (
-  <Layout title="Inkdrop">
+  <Layout title="HKU AI Competition">
     <Container>
       <Title>
        HKU AI Robotics Vision Competition <Badge>2021</Badge> <Badge>Winner</Badge>
       </Title>
       <P>
-                HKU SAAS Data Science Lab of the Department of Statistics & Actuarial Science, The University of Hong Kong organized this
-                competition is to promote development of artificial intelligence (AI) robotics vision and automation technologies at the school level
-                and the industry level. The competition encourages students and companies to develop innovative AI robotics solutions with AI,
-                data science and statistical tools for solving current hot topics/problems in robotics vision and automation. The competition
-                also serves as a platform for local secondary schools, institutions, and industries to share knowledge, innovation and
-                experience on the application of AI robotics technologies for solving business problems, enhancing businesses’
-                competitiveness, and creating business insights for industries in social science, smart city, healthcare, education,
-                and Internet of Things (IoT).
+        HKU SAAS Data Science Lab of the Department of Statistics & Actuarial Science, The University of Hong Kong organized this
+        competition is to promote development of artificial intelligence (AI) robotics vision and automation technologies at the school level
+        and the industry level. The competition encourages students and companies to develop innovative AI robotics solutions with AI,
+        data science and statistical tools for solving current hot topics/problems in robotics vision and automation. The competition
+        also serves as a platform for local secondary schools, institutions, and industries to share knowledge, innovation and
+        experience on the application of AI robotics technologies for solving business problems, enhancing businesses’
+        competitiveness, and creating business insights for industries in social science, smart city, healthcare, education,
+        and Internet of Things (IoT).
+      </P>
+      <P>
+        I was the team leader and lead coder of our group which developed 
       </P>
       <List ml={4} my={4}>
         <ListItem>
