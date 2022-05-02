@@ -8,13 +8,11 @@ const Work = () => (
   <Layout title="Inkdrop">
     <Container>
       <Title>
-       HKU AI Robotics Vision Competition <Badge>2021</Badge>
+       HKU AI Robotics Vision Competition <Badge>2021</Badge> <Badge>Winner</Badge>
       </Title>
       <P>
-                HKU SAAS Data Science Lab of the Department of Statistics & Actuarial Science, The University of Hong Kong is organizing
-                an AI robotics vision and automation technology challenges competition for secondary school/undergraduate/graduated students,
-                and companies. It is sponsored/supported by Kinth Technology Ltd and other industrial partners. The aim of this competition
-                is to promote development of artificial intelligence (AI) robotics vision and automation technologies at the school level
+                HKU SAAS Data Science Lab of the Department of Statistics & Actuarial Science, The University of Hong Kong organized this
+                competition is to promote development of artificial intelligence (AI) robotics vision and automation technologies at the school level
                 and the industry level. The competition encourages students and companies to develop innovative AI robotics solutions with AI,
                 data science and statistical tools for solving current hot topics/problems in robotics vision and automation. The competition
                 also serves as a platform for local secondary schools, institutions, and industries to share knowledge, innovation and
