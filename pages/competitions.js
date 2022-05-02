@@ -3,7 +3,7 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { CompetitionsGridItem } from '../components/grid-item'
 
-import thumbInkdrop from '../public/images/competitions/inkdrop_eyecatch.png'
+import hkuAi from '../public/images/competitions/hkuai.png'
 import thumbWalknote from '../public/images/competitions/walknote_eyecatch.png'
 import thumbFourPainters from '../public/images/competitions/the-four-painters_eyecatch.jpg'
 import thumbMenkiki from '../public/images/competitions/menkiki_eyecatch.png'
@@ -22,7 +22,7 @@ const Competitions = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
-          <CompetitionsGridItem id="inkdrop" title="HKU AI Robotics Vision Competition" thumbnail={thumbInkdrop}>
+          <CompetitionsGridItem id="hkuai" title="HKU AI Robotics Vision Competition" thumbnail={hkuAi}>
               An AI competition hosted by HKU&apos;s Data Science Lab for full time and part time students.
           </CompetitionsGridItem>
         </Section>
