@@ -72,11 +72,12 @@ const Work = () => (
         <Center>AVIA Screenshots</Center>
     </Heading>
 
-            <WorkImage src="/images/competitions/avia_00.png" alt="Inkdrop" />
-            <WorkImage src="/images/competitions/avia_01.png" alt="Inkdrop" />
-            <WorkImage src="/images/competitions/avia_02.png" alt="Inkdrop" />
-            <WorkImage src="/images/competitions/avia_03.png" alt="Inkdrop" />
-            <WorkImage src="/images/competitions/avia_04.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/avia_00.png" alt="AVIA screenshot 0" />
+            <WorkImage src="/images/competitions/avia_01.png" alt="AVIA screenshot 1" />
+            <WorkImage src="/images/competitions/avia_02.png" alt="AVIA screenshot 2" />
+            <WorkImage src="/images/competitions/avia_03.png" alt="AVIA screenshot 3" />
+            <WorkImage src="/images/competitions/avia_04.png" alt="AVIA screenshot 4" />
+            <WorkImage src="/images/competitions/avia_04.png" alt="AVIA screenshot 5" />
 
 
     <Heading as="h4" fontSize={16} my={6}>
