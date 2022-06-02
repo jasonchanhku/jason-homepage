@@ -84,8 +84,10 @@ const Work = () => (
         <Center>Award Ceremony</Center>
     </Heading>
 
-      <WorkImage src="/images/works/inkdrop_01.png" alt="Inkdrop" />
-      <WorkImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/avia_ceremony_00.png" alt="AVIA award ceremony 0" />
+            <WorkImage src="/images/competitions/avia_ceremony_01.png" alt="AVIA award ceremony 1" />
+            <WorkImage src="/images/competitions/avia_ceremony_02.png" alt="AVIA award ceremony 2" />
+            <WorkImage src="/images/competitions/avia_ceremony_03.png" alt="AVIA award ceremony 3" />
 
     </Container>
   </Layout>
