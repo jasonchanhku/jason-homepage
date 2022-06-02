@@ -63,11 +63,21 @@ const Work = () => (
     </UnorderedList>
 
     <Heading as="h4" fontSize={16} my={6}>
+        <Center>AVIA Demo</Center>
+    </Heading>
+
+      <WorkImage src="/images/competitions/jason_chan_avia.gif" alt="AVIA Demo" />
+
+    <Heading as="h4" fontSize={16} my={6}>
         <Center>AVIA Screenshots</Center>
     </Heading>
 
-      <WorkImage src="/images/competitions/jason_chan_avia.webm" alt="AVIA Demo" />
-      <WorkImage src="/images/competitions/inkdrop_02.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/inkdrop_00.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/inkdrop_01.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/inkdrop_02.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/inkdrop_03.png" alt="Inkdrop" />
+            <WorkImage src="/images/competitions/inkdrop_04.png" alt="Inkdrop" />
+
 
     <Heading as="h4" fontSize={16} my={6}>
         <Center>Award Ceremony</Center>
