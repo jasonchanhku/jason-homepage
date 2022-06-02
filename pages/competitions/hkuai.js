@@ -84,10 +84,10 @@ const Work = () => (
         <Center>Award Ceremony</Center>
     </Heading>
 
-            <WorkImage src="/images/competitions/avia_ceremony_00.png" alt="AVIA award ceremony 0" />
-            <WorkImage src="/images/competitions/avia_ceremony_01.png" alt="AVIA award ceremony 1" />
-            <WorkImage src="/images/competitions/avia_ceremony_02.png" alt="AVIA award ceremony 2" />
-            <WorkImage src="/images/competitions/avia_ceremony_03.png" alt="AVIA award ceremony 3" />
+            <WorkImage src="/images/competitions/avia_ceremony_00.jpg" alt="AVIA award ceremony 0" />
+            <WorkImage src="/images/competitions/avia_ceremony_01.jpg" alt="AVIA award ceremony 1" />
+            <WorkImage src="/images/competitions/avia_ceremony_02.jpg" alt="AVIA award ceremony 2" />
+            <WorkImage src="/images/competitions/avia_ceremony_03.jpg" alt="AVIA award ceremony 3" />
 
     </Container>
   </Layout>
