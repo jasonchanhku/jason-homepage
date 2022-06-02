@@ -63,7 +63,7 @@ const Work = () => (
     </UnorderedList>
 
     <Heading as="h4" fontSize={16} my={6}>
-        <Center>AVIA Demo</Center>
+        <Center>AVIA Demo (Please wait until .gif file loaded)</Center>
     </Heading>
 
       <WorkImage src="/images/competitions/jason_chan_avia.gif" alt="AVIA Demo" />
@@ -77,7 +77,7 @@ const Work = () => (
             <WorkImage src="/images/competitions/avia_02.png" alt="AVIA screenshot 2" />
             <WorkImage src="/images/competitions/avia_03.png" alt="AVIA screenshot 3" />
             <WorkImage src="/images/competitions/avia_04.png" alt="AVIA screenshot 4" />
-            <WorkImage src="/images/competitions/avia_04.png" alt="AVIA screenshot 5" />
+            <WorkImage src="/images/competitions/avia_05.png" alt="AVIA screenshot 5" />
 
 
     <Heading as="h4" fontSize={16} my={6}>
