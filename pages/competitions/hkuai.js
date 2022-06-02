@@ -56,9 +56,10 @@ const Work = () => (
 
     <UnorderedList my={4}>
         <ListItem>
-            <Link href="https://medium.com/plotly/7-of-the-dash-communitys-latest-creations-ed4f53e0b1fa" target="_blank">
-                <Badge mr={2}>Plotly</Badge>
-    7 of the dash&apos;s community latest creation
+            <Link href="https://nbviewer.org/github/jasonchanhku/jasonchanjinan/blob/master/public/hku_article.pdf" target="_blank">
+                <Badge mr={2}>HKU Newsletter</Badge>
+    The Winning Teams of the AI Robotics Vision and Automation Technology Challenges
+    Competition 2021 organised by HKU SAAS Data Science Lab
     <ExternalLinkIcon mx="2px" />
             </Link>
         </ListItem>
