@@ -35,18 +35,15 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Platform</Meta>
-          <span>Windows/macOS/Linux/iOS/Android</span>
+          <span>Web application</span>
         </ListItem>
         <ListItem>
           <Meta>Stack</Meta>
-          <span>NodeJS, Electron, React Native</span>
+          <span>Python, Streamlit, OpenCV</span>
         </ListItem>
         <ListItem>
-          <Meta>Blogpost</Meta>
-          <Link href="https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820">
-            How I’ve Attracted The First 500 Paid Users For My SaaS That Costs
-            $5/mo <ExternalLinkIcon mx="2px" />
-          </Link>
+          <Meta>ML Libraries</Meta>
+          <span>Tensorflow, Keras, spaCy, Textblob</span>
         </ListItem>
       </List>
 
@@ -63,15 +60,14 @@ const Work = () => (
     <ExternalLinkIcon mx="2px" />
             </Link>
         </ListItem>
-
-        <ListItem>
-            <Link href="https://towardsdatascience.com/my-top-5-visualization-tools-for-data-science-45a4968ae695" target="_blank">
-                <Badge mr={2}>Zeming Yu</Badge>
-        My top 5 visualization tools for data science
-    <ExternalLinkIcon mx="2px" />
-            </Link>
-        </ListItem>
     </UnorderedList>
+
+    <Heading as="h4" fontSize={16} my={6}>
+        <Center>AVIA Screenshots</Center>
+    </Heading>
+
+      <WorkImage src="/images/works/inkdrop_01.png" alt="Inkdrop" />
+      <WorkImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
 
     <Heading as="h4" fontSize={16} my={6}>
         <Center>Award Ceremony</Center>
@@ -79,6 +75,7 @@ const Work = () => (
 
       <WorkImage src="/images/works/inkdrop_01.png" alt="Inkdrop" />
       <WorkImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
+
     </Container>
   </Layout>
 )
