@@ -66,7 +66,7 @@ const Work = () => (
         <Center>AVIA Screenshots</Center>
     </Heading>
 
-      <WorkImage src="/images/works/jason_chan_avia.gif" alt="AVIA Demo" />
+      <WorkImage src="/images/competitions/jason_chan_avia.gif" alt="AVIA Demo" />
       <WorkImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
 
     <Heading as="h4" fontSize={16} my={6}>
